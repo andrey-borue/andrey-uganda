@@ -266,6 +266,8 @@
 | Russian Embassy Kampala | +256 414 345 698 |
 | Aerolink | +256 317 333 000 |
 | UWA (Uganda Wildlife Authority) | +256 414 355 000 |
+| **Rushaga Gorilla Lodge (WhatsApp)** | **+256 752 409 510** |
+| Rushaga Gorilla Lodge (email) | reservations@mbzgroup.africa |
 
 ---
 
