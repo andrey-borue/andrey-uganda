@@ -8,7 +8,7 @@
 
 ## 🎯 [ITINERARY.md — финальный конкретный маршрут](ITINERARY.md)
 
-**Это основной план поездки** — почасово, по дням. Bwindi Breeze (Rubuguri) → Kisoro Art Island → Ishasha → Mweya → Kibale → Mburo → Entebbe + Mabamba. Подтверждённые лоджи, бюджет, план Б.
+**Это основной план поездки** — почасово, по дням. Bwindi Breeze (Rubuguri) → Lake Bunyonyi → Ishasha → Mweya → Kibale → Mburo → Entebbe + Mabamba. Подтверждённые лоджи, бюджет, план Б.
 
 ---
 

@@ -1,6 +1,6 @@
 # 🎯 Финальный маршрут — 8–16 мая 2026
 
-> Ваш конкретный план: гориллы Rushaga → остров Mutanda → Queen Elizabeth → Kibale (шимпы) → Lake Mburo → Entebbe.
+> Ваш конкретный план: гориллы Rushaga → Lake Bunyonyi → Queen Elizabeth → Kibale (шимпы) → Lake Mburo → Entebbe.
 > **Допущение:** на брифинге 9 мая удаётся попросить близкую семью горилл, трек заканчивается к ~12:30. Если нет — см. секцию "План Б" в конце.
 
 ## ⏰ Про утренние тайминги в мае
@@ -19,8 +19,8 @@
 | Дата | День | Где ночуем | Главное событие |
 |---|---|---|---|
 | 8 мая (пт) | 1 | **Bwindi Breeze Lodge** (Rubuguri) | Прилёт KSO 08:15, переезд через Mutanda, акклиматизация |
-| 9 мая (сб) | 2 | **Kisoro Art Island** | ⭐ Горилловый трек Rushaga → переезд на остров |
-| 10 мая (вс) | 3 | **Ishasha Wilderness Camp** | Переезд в Ishasha → ⭐ tree-climbing lions |
+| 9 мая (сб) | 2 | **Lake Bunyonyi** (Birdnest или Amasiko) | ⭐ Горилловый трек Rushaga → переезд ~2 ч прямой горной дорогой |
+| 10 мая (вс) | 3 | **Ishasha Wilderness Camp** | Bunyonyi → Kabale → Kanungu → Ishasha → ⭐ tree-climbing lions |
 | 11 мая (пн) | 4 | **Mweya Safari Lodge** | Утренний game drive → ⭐ Kazinga sunset cruise |
 | 12 мая (вт) | 5 | **Kyaninga Lodge** (Kibale) | Утренний Kasenyi → переезд в Kibale |
 | 13 мая (ср) | 6 | **Mihingo Lodge** (Mburo) | ⭐ Шимпы Kibale → длинный переезд в Mburo |
@@ -119,10 +119,10 @@
 ### Что согласовать с лоджем (WhatsApp +256 776 482701) до приезда
 
 1. ✅ Бронь #6007745987 на 1 ночь (8→9 мая) — подтвердить
-2. ✅ **Meal plan** — выберите Half Board (ужин 8 мая + завтрак 9 мая). После трека вы НЕ возвращаетесь в лодж — едете дальше на Mutanda.
+2. ✅ **Meal plan** — выберите Half Board (ужин 8 мая + завтрак 9 мая). После трека вы НЕ возвращаетесь в лодж — едете дальше на Lake Bunyonyi.
 3. ✅ **Возможный поздний lunch на 8 мая** (~12:30) — рейс уточняется, рабочий созвон, потом дорога. Договоритесь о flexible lunch window 12:30–14:00.
 4. ✅ **Packed breakfast в 05:30** утра 9 мая (выезд в 06:30, см. День 2)
-5. ✅ **Packed lunch** на горилловый трек 9 мая (съедите в машине / на Mutanda) — обязательно укажите, **что НЕ возвращаетесь** на горячий обед
+5. ✅ **Packed lunch** на горилловый трек 9 мая (съедите у машины после трека или на дороге к Bunyonyi) — обязательно укажите, **что НЕ возвращаетесь** на горячий обед
 6. ✅ **Pre-checkout вечером 8 мая** — рассчитайтесь за ужин/завтрак/extras, чтобы утром не задерживаться
 7. ✅ Уточнить, **где оставить ключ** утром в 06:30 (reception часто закрыт, можно reception-on-call или drop-box)
 8. ✅ Уточнить **точное время выезда из Rubuguri к UWA Rushaga** (15–20 мин по местной грунтовке) — если дождливо, +10 мин
@@ -132,7 +132,7 @@
 
 ---
 
-## День 2 — 9 мая (сб): ⭐ Гориллы + переезд на остров
+## День 2 — 9 мая (сб): ⭐ Гориллы + переезд на Lake Bunyonyi
 
 ### Расписание
 
@@ -148,19 +148,18 @@
 | 08:30 | Старт трека от trailhead соответствующей семьи |
 | 09:30–10:30 | Встреча с гориллами — **1 час наблюдения** (правило UWA) |
 | 11:30–12:30 | Возвращение к trailhead, выдача сертификатов, чаевые |
-| 12:30 | Переодевание у машины (чистая одежда из чемодана, влажные салфетки), packed lunch на капоте |
-| 13:00 | Выезд от UWA Rushaga → **Lake Mutanda** через Rubuguri (НЕ заезжаем в лодж — чек-аут уже сделан утром) |
-| ~14:30 | Прибытие на берег Lake Mutanda — точка отправки катера (выигрываем ~1.5 ч против старого плана) |
-| 14:45 | 🛶 **Катер на Kisoro Art Island** (10–15 мин) |
-| 15:00 | Прибытие на остров, чекин, welcome drink, **душ**, переодевание |
-| 16:00 | Отдых, чай/кофе с видом на вулканы (бонус 1.5 ч против старого плана) |
-| 17:30 | 🛶 **Каноэ-долблёнка на закате** (1–1.5 ч) — местный гребец, виды на вулканы |
-| 19:00 | Communal dinner на острове (farm-to-table) |
-| 20:30 | Костёр, звёзды, отбой |
+| 12:30 | Переодевание у машины, packed lunch на капоте |
+| 13:00 | Выезд от UWA Rushaga → **Lake Bunyonyi** прямой горной дорогой (~35 км) |
+| 13:00–15:30 | Дорога: Rushaga → Kisoro–Kabale Rd (через горы Kigezi, обходит крюк через Kabale town). **Google 1ч20м, в мае закладывайте 2–2.5 ч с буфером на мокрый murram.** |
+| ~15:30 | Прибытие в лодж на Bunyonyi (Birdnest / Amasiko / выбранный), чекин, душ |
+| 16:30 | 🛶 Опц. **dugout canoe** на 1.5 ч (договоритесь с лоджем при чек-ине) или просто отдых на пирсе |
+| 18:30 | 🍷 Закат на пирсе / палубе ресторана |
+| 19:30 | Ужин (если Birdnest — повторяющиеся отзывы про лучшую еду на озере) |
+| 21:00 | Отбой — холодная ночь (~12°C), берите тёплые носки |
 
 ### Скрипт для брифинга (попросить близкую семью)
 
-> "Hello, ranger. We're already checked out from our lodge in Rubuguri — tonight we move to Lake Mutanda for our second night, and we won't be coming back this way. Could you please assign us to a family with a shorter trek today, like **Bweza, Busingye, or Mucunguzi**? We're moderately fit but we need to be on the road by 13:00 to catch the boat. Thank you!"
+> "Hello, ranger. We're already checked out from our lodge in Rubuguri — tonight we drive to **Lake Bunyonyi** (about a 2-hour mountain drive), and we won't be coming back this way. Could you please assign us to a family with a shorter trek today, like **Bweza, Busingye, or Mucunguzi**? We're moderately fit but want to reach Bunyonyi with daylight to spare. Thank you!"
 
 Рейнджеры обычно идут навстречу. Bikingi и Rwigi — самые "дальние" семьи (часто 5–7 ч), их избегайте.
 
@@ -177,56 +176,60 @@
 | **Bikingi** | сложно | 14:30–17:00 |
 | **Rwigi** | сложно | 14:30–17:00 |
 
-### Лодж
+### Лодж — Lake Bunyonyi (выбрать и забронировать)
 
-**Kisoro Art Island** (бутик-арт, на острове в Lake Mutanda, ~$106+/ночь)
-- Direct: kisoroartisland.com / bookartisland.com
-- Booking.com: booking.com/hotel/ug/kisoro-art-island.html
-- WhatsApp агента: Kamere Tours +256 776 360 824 / +256 394 857 250
-- Email: info@kameretours.com
-- Instagram: @kisoroartisland
-- 13 отзывов TripAdvisor, 4.9/5 (новый объект, открыт март 2026)
+См. полное сравнение в [places/03-lake-bunyonyi.md](places/03-lake-bunyonyi.md).
 
-### Что обязательно подтвердить с Art Island заранее
+**Топ-3 кандидата для пары:**
 
-1. **Цена** за Muse Tent или Sanctuary Villa, dbl, ночь 9 мая 2026, board basis
-2. **Включён ли катер** из Kisoro в цену; если нет — сколько стоит
-3. **До скольки последний катер** на остров (обычно 18:30, после темно)
-4. **План Б на поздний возврат** — если приедем после 19:00, есть ли запасной рейс или ночёвка на берегу
-5. **Где парковать машину** на берегу на ночь (обычно с местным жителем за $5–10)
-6. **Завтрак 10 мая в 7:00** + **packed coffee/snack** для дороги
-7. **Утренний катер обратно** к 8:00 (нужно к 8:30 быть на машине, чтобы доехать до Ishasha к обеду)
-8. **Cancellation policy** — на случай отмены рейса Aerolink 8 мая
+| Лодж | Стиль | Цена | Плюсы | Минусы |
+|---|---|---|---|---|
+| ⭐ **Birdnest at Bunyonyi** | premium romance | $150–250 | Каменные шале **над водой**, лучшая еда на озере, закатная палуба | Wifi плавает |
+| **Bushara Island Camp** | rustic island | mid | Палатки/treehouses, тишина, звёзды | Без электричества, нужна лодка |
+| **Amasiko Homestay** | community/budget | $30–80 | Ближе к Bwindi (south end, удобно после трека), local feel | Простота |
+| **Arcadia Cottages** | viewpoint | mid | **Та самая панорама** Bunyonyi с гребня | Не у воды |
+
+**Рекомендация:** **Birdnest at Bunyonyi** — самое надёжное под формат «приехали уставшие после трека, душ, ужин, закат».
+
+### Что подтвердить с лоджем при бронировании
+
+1. **Цена** dbl за ночь 9 мая 2026, board basis (Half Board вероятно — так как ужин на месте)
+2. **ETA ~15:30**, гибкий чек-ин (после трека возможны задержки)
+3. **Парковка** для 4WD на ночь
+4. **Wifi** — есть ли (созвон не нужен, но мало ли)
+5. **Утром 10 мая** — завтрак ~07:30, **packed coffee/snack для дороги** (выезд ~09:00 в Ishasha)
+6. **Активности на месте:** dugout canoe (~$20), birdwatching на рассвете, Arcadia viewpoint hike
+7. **Cancellation policy** — на случай форс-мажора с Aerolink 8 мая
 
 ---
 
-## День 3 — 10 мая (вс): Mutanda → Ishasha (tree-climbing lions)
+## День 3 — 10 мая (вс): Bunyonyi → Ishasha (tree-climbing lions)
 
 ### Расписание
 
 | Время | Действие |
 |---|---|
-| 07:00 | Подъём, кофе на острове |
-| 07:30 | Завтрак с видом на вулканы |
-| 08:30 | 🛶 Катер обратно на берег |
-| 09:00 | Загрузка в машину, выезд → Ishasha |
-| 09:30 | Заправка в Kisoro (полный бак — следующая надёжная заправка в Kihihi 2 ч) |
-| 10:00–14:00 | Дорога: Kisoro → Kanungu → Kihihi → Ishasha gate |
-| 12:00 | Опц. стоп в **Kihihi** на обед/кофе (последний нормальный город перед парком) |
-| 14:00 | **Ishasha gate** — оплата park fees ($40×2 + $50/машина), наём ranger-guide на полдня ($30) |
-| 14:30 | Прибытие в **Ishasha Wilderness Camp** / Enjojo Lodge, чекин |
-| 14:30 | Поздний обед в лодже |
-| 15:30 | 🦁 **Вечерний game drive** — Ishasha river circuit (north & south loops) с rangerom |
+| 06:00 | 🌅 Опц. **рассветное каноэ** на Bunyonyi (договориться с вечера, выезд 5:45, туман над водой) — лучший фото-час |
+| 07:30 | Возврат в лодж, душ |
+| 08:00 | Завтрак с видом на острова |
+| 09:00 | Чек-аут, выезд → Ishasha |
+| 09:30 | **Заправка в Kabale** + ATM (последняя надёжная заправка перед Kihihi) |
+| 10:00–14:30 | Дорога: Kabale → Kanungu → Kihihi → Ishasha gate (~210 км / 4.5–5 ч в мае) |
+| 12:30 | Опц. стоп в **Kihihi** на обед/кофе (последний нормальный город перед парком) |
+| 14:30 | **Ishasha gate** — оплата park fees ($40×2 + $50/машина), наём ranger-guide на полдня ($30) |
+| 15:00 | Прибытие в **Ishasha Wilderness Camp** / Enjojo Lodge, чекин |
+| 15:00 | Поздний обед в лодже |
+| 16:00 | 🦁 **Вечерний game drive** — Ishasha river circuit (north & south loops) с rangerom |
 | 18:30 | Закат на реке Ntungwe (бегемоты в реке) |
 | 19:00 | Возврат в лодж, ужин у костра |
 | 21:00 | Отбой |
 
-### Дорога Kisoro → Ishasha
+### Дорога Bunyonyi → Ishasha
 
-- **160 км / ~4 часа** в сухую погоду; в мае дожди = 4.5–5 часов
-- Маршрут: **Kisoro → Kabale (по асфальту 80 км / 2 ч) → Kanungu → Kihihi → Ishasha gate**
-- Альтернатива короче: **Kisoro → Rubuguri → Kihihi → Ishasha** (грунт, ~120 км, 3.5 ч если сухо). Спросите местных утром на острове, проходима ли эта дорога.
-- **Заправка по дороге:** только в Kisoro и Kihihi. Полный бак в Kisoro обязательно.
+- **~210 км / 4.5–5 часов** в мае (asphalt до Kabale + murram дальше)
+- Маршрут: **Bunyonyi → Kabale (8 км подъём, 30 мин) → Kanungu → Kihihi → Ishasha gate**
+- **Заправка по дороге:** только в Kabale и Kihihi. Полный бак в Kabale обязательно.
+- Mid-day выезд + 4.5-часовая дорога = в Ishasha к 14:30, успеваем на вечерний game drive (золотой час 16:00–18:30).
 
 ### Лодж
 
@@ -498,7 +501,7 @@
 | Дата | Лодж | Ночей | Бронь |
 |---|---|---|---|
 | 8 мая (пт) | **Bwindi Breeze Lodge** (Rubuguri) | 1 | ✅ **Confirmed #6007745987** / WA **+256 776 482701** |
-| 9 мая (сб) | Kisoro Art Island | 1 | Kamere Tours WhatsApp +256 776 360 824 |
+| 9 мая (сб) | **Lake Bunyonyi** (Birdnest рекомендован) | 1 | TBD — see [places/03-lake-bunyonyi.md](places/03-lake-bunyonyi.md) |
 | 10 мая (вс) | Ishasha Wilderness Camp | 1 | reservations@classicafricasafaris.com |
 | 11 мая (пн) | Mweya Safari Lodge | 1 | reservations@mweyalodge.com / +256 414 346 464 |
 | 12 мая (вт) | Kyaninga Lodge (Kibale) | 1 | reservations@kyaningalodge.com |
@@ -534,25 +537,24 @@
 
 ## 🚨 План Б: если попалась "дальняя" семья горилл 9 мая
 
-Если на брифинге назначили Bikingi/Rwigi и трек закончится в 17:00:
+Если на брифинге назначили Bikingi/Rwigi и трек закончится в 16:00–17:00:
 
-**Вариант 1 — двигаемся всё равно:**
-- Не заезжаете в лодж, едете прямо с trailhead к Mutanda
-- Тащите рюкзак с собой на трек (в дневном — мокрая одежда, переоденетесь в машине)
-- В Mutanda приедете в 19:30, темно
-- Договоритесь с Art Island о ночном катере **заранее**, или о ночёвке на берегу в guesthouse
+**Вариант 1 — двигаемся всё равно (вероятно, OK):**
+- Все вещи уже в машине (полный чек-аут утром).
+- В машине переодеваетесь у trailhead, packed lunch на капоте.
+- Прямой шорткат **Rushaga → Bunyonyi ~2 ч**, выезд 17:00 → прибытие ~19:00. Темнеет 18:45.
+- Последние 30 мин — в темноте по murram. **Рискованно, но проходимо** при сухой погоде.
+- Звоните в лодж заранее: «late arrival ~19:00, please keep dinner warm».
 
-**Вариант 2 — не двигаемся (рекомендую):**
-- Звоните Art Island с trailhead в 16:00: "не успеваем, переносим на 10 мая"
-- WhatsApp Bwindi Breeze Lodge (+256 776 482701) — просите вторую ночь (8→9→10 мая, не 8→9)
-- 10 мая утром едете на Mutanda, проводите день и ночь там
-- 11 мая утром → Ishasha (та же программа что в плане, но смещена на день)
-- Это **съедает один день из QENP** — пропускаете утренний game drive Mweya 12 мая, либо сокращаете Mburo до 1 ночи
+**Вариант 2 — не двигаемся (страховочный):**
+- WhatsApp Bwindi Breeze Lodge (+256 776 482701) — просите вторую ночь (8→9→10 мая, не 8→9).
+- 10 мая утром едете на Bunyonyi (в светлое время), проводите день и ночь там.
+- 11 мая утром → Ishasha (та же программа что в плане, но смещена на день).
+- Это **съедает один день из QENP** — пропускаете утренний game drive Mweya 12 мая, либо сокращаете Mburo до 1 ночи.
 
-**Вариант 3 — Art Island пропускаем:**
-- Остаётесь 2 ночи в Bwindi Breeze Lodge (если есть availability)
-- 10 мая едете прямо на Mutanda (просто на обед/каноэ-тур, без ночёвки) → Ishasha
-- Теряете "ночь на острове" опыт
+**Вариант 3 — Bunyonyi пропускаем, едем сразу к Mweya/Ishasha:**
+- Из Rushaga в 17:00 → ночёвка в Kihihi (в guesthouse у ворот Bwindi) → Ishasha 10 мая утром.
+- Теряете «отдых после трека» на Bunyonyi.
 
 **Чтобы свести риск к минимуму:** см. секцию "Скрипт для брифинга" в Дне 2 — попросите Bweza/Busingye/Mucunguzi.
 
@@ -562,7 +564,7 @@
 
 - [x] Бронь Aerolink (8 мая, EBB→KSO 07:00→08:15, ref **187E632**) — ✅ confirmed
 - [x] Бронь **Bwindi Breeze Lodge** (Rubuguri) — 1 ночь, 8 мая — ✅ confirmed #6007745987
-- [ ] Бронь Kisoro Art Island — 1 ночь, 9 мая (через Kamere Tours WhatsApp)
+- [ ] Бронь **Lake Bunyonyi** — 1 ночь, 9 мая (Birdnest at Bunyonyi рекомендован)
 - [ ] Бронь Ishasha Wilderness Camp — 1 ночь, 10 мая
 - [ ] Бронь Mweya Safari Lodge — 1 ночь, 11 мая
 - [ ] Бронь Kyaninga Lodge — 1 ночь, 12 мая
