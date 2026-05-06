@@ -58,6 +58,41 @@ Thank you!
 
 ---
 
+## 🦍 UWA Reservations — официально подтвердить время брифинга
+
+**Кому:** **reservations@wildlife.go.ug** (UWA Reservations Office, Kampala)
+**CC:** tourism@ugandawildlife.org
+**Tel (если email затянется):** +256 414 355 000 / 0800 100 960 (toll-free)
+
+```
+Subject: Confirmation of briefing time — Rushaga gorilla tracking, 9 May 2026
+
+Dear UWA Reservations,
+
+I am writing to formally confirm the operational details for our gorilla tracking permits at the Rushaga sector of Bwindi Impenetrable National Park.
+
+Permit holder: Andrey Boryu (and one companion, Mila [last name])
+Tracking date: 9 May 2026 (Saturday)
+Sector: Rushaga
+Number of permits: 2
+
+Could you please confirm in writing:
+
+1. The exact time we must report at UWA Ranger Station Rushaga (briefing time)
+2. The expected trek start time after the briefing
+3. The recommended GPS coordinates / plus code of the meeting point
+4. What documents we must present (we have printed permits + passports + yellow fever cards)
+5. Whether we should bring proof of Covid-19 vaccination
+
+Thank you very much. We are looking forward to the experience.
+
+Regards,
+Andrey Boryu
+[your phone number]
+```
+
+---
+
 ## 📋 Прокатчик машины — confirm Kisoro airstrip pickup
 
 **Кому:** (вставить контакт прокатчика)

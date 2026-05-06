@@ -86,6 +86,12 @@
 
 ---
 
+## 🎫 [UWA Tariff 2024–2026 — официальные цены и правила](UWA-FEES.md)
+
+Извлечения из официального UWA Conservation Tariff (PDF). Цены на пермиты, park entrance, vehicle entry, boat cruises, штрафы, правила, рекомендованные апгрейды (Chimp Habituation $300 за 4 ч, Lion Predator Tracking QENP) и корректировка бюджета. Ссылка на первоисточник.
+
+---
+
 ## 💬 [Готовые сообщения — отдельный файл](MESSAGES.md)
 
 Шаблоны WhatsApp / email сообщений по бронированиям: Aerolink Operations (адрес EBB), Bwindi Breeze Lodge (meals/checkout), прокатчик, Kisoro Art Island, общий шаблон лоджей. Скопировать → отправить.
