@@ -40,7 +40,9 @@
 
 **Сайт:** [aerolinkuganda.com](https://www.aerolinkuganda.com/)
 **Тел:** +256 317 333 000
-**Email:** info@aerolinkuganda.com
+**WhatsApp Operations (написали по вашей брони):** **+256 771 009307**
+**Email Operations (с него пришло подтверждение):** **operations@aerolinkuganda.com**
+**Email general:** info@aerolinkuganda.com
 **Facebook:** [AeroLink Uganda](https://www.facebook.com/aerolinkuganda/)
 
 ### Маршрут до Bwindi

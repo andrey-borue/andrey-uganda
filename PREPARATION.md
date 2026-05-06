@@ -11,7 +11,7 @@
 - Counters: **05:30 open / 06:30 close**
 - Departure **07:00**, Arrival **08:15**
 - Имя: Andrey Boryu
-- За 24 ч до вылета — короткий звонок на **+256 317 333 000** для re-confirm
+- За 24 ч до вылета — re-confirm: WhatsApp **+256 771 009307** (Aerolink Operations) или звонок на +256 317 333 000
 
 ### Подтвердить с прокатчиком
 - Письмо/мессенджер прокату: подтвердите, что **машина будет на Kisoro airstrip утром 8 мая** (не в Kihihi, не в Кампале).
@@ -268,7 +268,9 @@
 | US Embassy Kampala | +256 414 306 001 |
 | UK High Commission | +256 312 312 000 |
 | Russian Embassy Kampala | +256 414 345 698 |
-| Aerolink | +256 317 333 000 |
+| Aerolink (офис) | +256 317 333 000 |
+| **Aerolink Operations (WhatsApp)** ✅ | **+256 771 009307** |
+| **Aerolink Operations (email)** ✅ | **operations@aerolinkuganda.com** |
 | UWA (Uganda Wildlife Authority) | +256 414 355 000 |
 | **Bwindi Breeze Lodge (Rubuguri, 8 мая)** ✅ | **+256 751 926308** (conf #6007745987) |
 
