@@ -4,10 +4,21 @@
 
 ---
 
-## ✈️ Aerolink Operations — уточнить адрес check-in в EBB
+## ✅ Aerolink Operations — уточнить адрес check-in в EBB **[ОТВЕЧЕНО 6 мая]**
 
 **Кому:** WhatsApp **+256 771 009307**
 **Дублёр:** email **operations@aerolinkuganda.com**
+
+> **Ответ от Marion (Aerolink Operations) 6 мая 17:53:**
+> *"We fly from Entebbe International Airport. The driver can drop you at the Airport Departures and then you proceed to the counters that will have a screen displaying AEROLINK. — Departure Terminal."*
+>
+> ✅ Терминал: **EBB International Airport — Departures**
+> ✅ Drop-off: **«Airport Departures»** (главный международный)
+> ✅ Стойка: counter с экраном **«AEROLINK»** над ним
+> ✅ Никакого отдельного domestic/charter терминала
+
+<details>
+<summary>Исходное сообщение (для архива)</summary>
 
 ```
 Hello, this is Andrey Boryu, booking ref 187E632 for the EBB → Kisoro flight on 8 May 2026 (counters 05:30–06:30, departure 07:00).
@@ -17,10 +28,10 @@ Could you please confirm the exact check-in location at Entebbe Airport? Specifi
 1. Which terminal — main international, or a separate domestic / charter terminal?
 2. Could you share a Google Maps pin or plus code so my taxi driver knows exactly where to drop us at 05:30?
 3. Is there a specific entrance or gate we should use?
-4. Where do we find the Aerolink counter once inside?
 
 Thank you!
 ```
+</details>
 
 ---
 
@@ -116,7 +127,7 @@ Thank you, looking forward to our stay!
 
 | Когда | Кому | Сообщение |
 |---|---|---|
-| **Сегодня** | Aerolink Operations WA | Адрес check-in в EBB |
+| ~~Сегодня~~ ✅ | Aerolink Operations WA | ~~Адрес check-in в EBB~~ — ответили: Departures, screen "AEROLINK" |
 | **Сегодня** | Bwindi Breeze Lodge WA | Meals + early checkout |
 | **Сегодня** | Прокатчик машины | Confirm pickup Kisoro |
 | **За 7 дней** | Kisoro Art Island (Kamere) | Boat + canoe details |
