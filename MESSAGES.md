@@ -93,6 +93,32 @@ Andrey Boryu
 
 ---
 
+## 🐎 Mihingo Lodge — спросить про лошадь под 105 кг
+
+**Кому:** reservations@mihingolodge.com
+**WhatsApp:** **+256 752 410 509**
+
+> Контекст: их официальный потолок **100 кг** (most horses 85 kg). Вы 105 кг → outside policy. Спросите, есть ли исключение по Thoroughbred-у.
+
+```
+Hi Mihingo team,
+
+I'm planning to stay at Mihingo Lodge on 13–14 May 2026 with my partner. We saw on your site that the maximum rider weight for the horse safari is 100 kg, and that most horses can carry up to 85 kg.
+
+I weigh 105 kg. Could you please confirm:
+
+1. Do you have any horses in your stable strong enough to carry a rider at 105 kg safely (perhaps one of your Thoroughbreds or larger Kenyan horses)?
+2. If yes, would you be willing to assign that horse to me for a walk-only ride (1–2 hours)? I am a beginner rider, so I would not need trotting or cantering.
+3. If not, what would you recommend as the best alternative for me at Mburo while my partner takes the horse safari? (e.g., walking safari, bush biking, or game drive together)
+
+We have 2 nights at the lodge and want to make the most of the experience together.
+
+Thanks very much,
+Andrey
+```
+
+---
+
 ## 📋 Прокатчик машины — confirm Kisoro airstrip pickup
 
 **Кому:** (вставить контакт прокатчика)
@@ -165,6 +191,8 @@ Thank you, looking forward to our stay!
 | ~~Сегодня~~ ✅ | Aerolink Operations WA | ~~Адрес check-in в EBB~~ — ответили: Departures, screen "AEROLINK" |
 | **Сегодня** | Bwindi Breeze Lodge WA | Meals + early checkout |
 | **Сегодня** | Прокатчик машины | Confirm pickup Kisoro |
-| **За 7 дней** | Kisoro Art Island (Kamere) | Boat + canoe details |
+| **Эта неделя** | Lake Bunyonyi лодж (Birdnest и др.) | Бронирование + Half Board + парковка |
+| **Эта неделя** | Mihingo Lodge | Уточнить лошадь под 105 кг + альтернативы |
 | **За 5 дней** | Остальные лоджи | Общий шаблон confirm |
+| **За 24 ч до брифинга** | UWA Reservations | Подтвердить briefing time 7:30 (если permit без time) |
 | **За 24 ч до вылета** | Aerolink WA | Re-confirm flight 187E632 |
