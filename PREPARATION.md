@@ -6,12 +6,12 @@
 
 ## 🚨 СРОЧНО (сделать в ближайшие 2–3 дня)
 
-### Aerolink — забронировать перелёт
-- **Сайт:** [aerolinkuganda.com](https://www.aerolinkuganda.com/) или тел. **+256 317 333 000**.
-- На самолёт всего ~12 мест → бронируйте сегодня-завтра.
-- Маршрут: **EBB → Kisoro** (на 8 мая утром) и **обратный — самостоятельно на машине** 16 мая.
-- Цена one-way: ~$326–400 на человека.
-- **При бронировании укажите Kisoro (KSO)**, не Kihihi (KHX).
+### Aerolink — ✅ ЗАБРОНИРОВАНО
+- **EBB → KSO, 8 мая 2026, ref 187E632**
+- Counters: **05:30 open / 06:30 close**
+- Departure **07:00**, Arrival **08:15**
+- Имя: Andrey Boryu
+- За 24 ч до вылета — короткий звонок на **+256 317 333 000** для re-confirm
 
 ### Подтвердить с прокатчиком
 - Письмо/мессенджер прокату: подтвердите, что **машина будет на Kisoro airstrip утром 8 мая** (не в Kihihi, не в Кампале).
@@ -24,16 +24,20 @@
 - При получении на месте — нужен пермит + паспорт. Без бумажного пермита не пускают на брифинг.
 - **Распечатайте 2 копии** + фото на телефоне.
 
-### Лоджи — забронировать
-Если ещё не забронированы, делайте сегодня. На май-сезон в лоджах вокруг Rushaga и Bunyonyi места разбирают.
+### Лоджи — статус
 
-Минимальный список к подтверждению:
-- 2 ночи Rushaga (8–9 мая)
-- 1–2 ночи Bunyonyi (10–11 мая) или Lake Mutanda
-- 2 ночи QENP / Kibale / другой парк
-- 1 ночь Энтеббе (15 мая)
+Подтверждённые:
+- ✅ **8 мая** — Bwindi Breeze Lodge (Rubuguri), conf #6007745987, +256 751 926308
 
-**Подтвердите по email** — у вас должны быть booking confirmation.
+Остальные подтверждать (см. полный список в [ITINERARY.md](ITINERARY.md#lodge-резюме-броней)):
+- 9 мая — Kisoro Art Island (через Kamere Tours)
+- 10 мая — Ishasha Wilderness Camp
+- 11 мая — Mweya Safari Lodge
+- 12 мая — Kyaninga Lodge (Kibale)
+- 13–14 мая — Mihingo Lodge (Mburo)
+- 15 мая — The Boma Entebbe
+
+**Подтвердите по email** — у вас должны быть booking confirmation на каждую ночь.
 
 ---
 
@@ -266,8 +270,7 @@
 | Russian Embassy Kampala | +256 414 345 698 |
 | Aerolink | +256 317 333 000 |
 | UWA (Uganda Wildlife Authority) | +256 414 355 000 |
-| **Rushaga Gorilla Lodge (WhatsApp)** | **+256 752 409 510** |
-| Rushaga Gorilla Lodge (email) | reservations@mbzgroup.africa |
+| **Bwindi Breeze Lodge (Rubuguri, 8 мая)** ✅ | **+256 751 926308** (conf #6007745987) |
 
 ---
 

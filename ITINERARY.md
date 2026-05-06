@@ -18,7 +18,7 @@
 
 | Дата | День | Где ночуем | Главное событие |
 |---|---|---|---|
-| 8 мая (пт) | 1 | **Rushaga Gorilla Lodge** | Прилёт KSO 08:15, переезд через Mutanda, акклиматизация |
+| 8 мая (пт) | 1 | **Bwindi Breeze Lodge** (Rubuguri) | Прилёт KSO 08:15, переезд через Mutanda, акклиматизация |
 | 9 мая (сб) | 2 | **Kisoro Art Island** | ⭐ Горилловый трек Rushaga → переезд на остров |
 | 10 мая (вс) | 3 | **Ishasha Wilderness Camp** | Переезд в Ishasha → ⭐ tree-climbing lions |
 | 11 мая (пн) | 4 | **Mweya Safari Lodge** | Утренний game drive → ⭐ Kazinga sunset cruise |
@@ -41,14 +41,16 @@
 | 04:30 | Подъём в отеле Entebbe |
 | 05:00 | Лёгкий завтрак / packed (договоритесь с reception накануне) |
 | 05:15 | Такси в EBB (15 мин) |
-| 06:00 | **Чекин закрывается** Aerolink (60 мин до вылета) |
-| 07:00 | ✈️ Вылет EBB рейс 111 |
+| 05:30 | **Counters open** Aerolink — чекин, сдача багажа |
+| 06:30 | **Counters close** — все пассажиры зарегистрированы |
+| 07:00 | ✈️ Вылет EBB (ref **187E632**) |
 | 08:15 | Прилёт **Kisoro airstrip (KSO)** |
 | 08:30 | Встреча с прокатной компанией у airstrip, проверка машины |
-| 09:00 | Выезд из Kisoro в направлении Rushaga |
+| 09:00 | Выезд из Kisoro в направлении Rubuguri |
 | 09:45 | 🛶 Стоп на **Lake Mutanda viewpoint** — кофе, фото вулканов Virunga |
-| 11:30 | Прибытие в **Rushaga Gorilla Lodge**, ранний обед, чекин |
-| 13:00 | Отдых, акклиматизация (1900 м), прогулка по деревне |
+| 11:30 | Прибытие в **Bwindi Breeze Lodge** (Rubuguri Town Council) — drop bags, ранний lunch (формальный чекин — с 14:00) |
+| 14:00 | ✅ **Официальный чекин**, заселение в номер |
+| 14:30 | Отдых, акклиматизация (~1900 м), прогулка по Rubuguri |
 | 17:00 | Душ, разбор рюкзака на завтра |
 | 18:00 | Ранний ужин в лодже |
 | 19:30 | Приготовить трек-комплект на утро (см. ниже) |
@@ -76,24 +78,26 @@
   - Sunblock + insect repellent
   - $40 наличными на портера + $20 чаевых рейнджерам
 
-### Лодж
+### Лодж — ✅ ЗАБРОНИРОВАНО
 
-**Rushaga Gorilla Lodge** (mid-range, ~$150–300 dbl FB)
-- Email: reservations@mbzgroup.africa
-- WhatsApp: +256 752 409 510
-- Сайт: mbzgroup.africa/rushagagorillalodge
-- TripAdvisor 4.5/5, ~83 отзыва
-- 15 мин пешком / 5 мин на машине до UWA Ranger Station Rushaga
+**Bwindi Breeze Lodge** (Rubuguri Town Council, Kisoro)
+- 📞 **+256 751 926308**
+- 🆔 **Confirmation: 6007745987**
+- 🗓 **Check-in: пт 8 мая, 14:00**
+- 🗓 **Check-out: сб 9 мая**
+- 📍 Rubuguri Town Council — деревня в ~7 км / 15–20 мин езды от **UWA Ranger Station Rushaga**
 
-### Что подтвердить с лоджем накануне
+### Что подтвердить с лоджем накануне (звонок/WhatsApp на +256 751 926308)
 
-1. ✅ Бронь подтверждена для 2 ночей (8–9 мая) — **wait, only 1 night under this plan**
-2. ✅ **Завтрак в 5:30 утра** 9 мая (или packed breakfast)
-3. ✅ **Packed lunch** на горилловый трек 9 мая (стандарт)
-4. ✅ Поздний lunch 9 мая на возвращение (12:30–13:00)
-5. ✅ Возможность **раннего чек-аута 9 мая в 14:00** (вместо стандартного 11:00)
+1. ✅ Бронь #6007745987 на 1 ночь (8→9 мая) — подтвердить за день
+2. ✅ **Ранний drop-off багажа в 11:30** (до формального чекина в 14:00) + ранний lunch
+3. ✅ **Завтрак или packed breakfast в 05:30** утра 9 мая
+4. ✅ **Packed lunch** на горилловый трек 9 мая (стандарт у Bwindi-лоджей)
+5. ✅ Поздний lunch 9 мая на возвращение (12:30–13:00)
+6. ✅ Возможность **позднего чек-аута 9 мая в 14:00** (вместо стандартного 10–11:00)
+7. ✅ Уточнить **точное время выезда из Rubuguri к UWA Rushaga** (15–20 мин по местной грунтовке) — если дождливо, +10 мин
 
-> **Корректировка:** под ваш план — **1 ночь** в Rushaga GL (8→9 мая). 9 мая вечером уезжаете на Kisoro Art Island.
+> **Логистика на 9 мая:** Bwindi Breeze Lodge стоит в Rubuguri, не на самой Rushaga. До trailhead ехать ~15–20 мин по грунту через Rushaga village. Утром вылет из лоджа — **06:50** (см. День 2).
 
 ---
 
@@ -103,18 +107,18 @@
 
 | Время | Действие |
 |---|---|
-| 05:30 | Подъём, лёгкий завтрак или packed |
-| 06:30 | Сборы, последняя проверка рюкзака |
-| 07:00 | Выезд из лоджа к **UWA Ranger Station Rushaga** (GPS −1.1177583, 29.7096882) |
-| 07:15 | Прибытие, регистрация, кофе/чай на месте |
+| 05:15 | Подъём, лёгкий завтрак или packed (договоритесь с лоджем накануне) |
+| 06:15 | Сборы, последняя проверка рюкзака, погрузка в машину |
+| 06:30 | Выезд из **Bwindi Breeze Lodge (Rubuguri)** в Rushaga |
+| 06:50 | Прибытие на **UWA Ranger Station Rushaga** (GPS −1.1177583, 29.7096882), регистрация, кофе/чай на месте |
 | 07:30 | **Брифинг.** На брифинге **попросите близкую семью** — Bweza, Busingye или Mucunguzi (см. скрипт ниже) |
 | 08:00 | Распределение групп, наём портера ($20 каждому) |
 | 08:30 | Старт трека от trailhead соответствующей семьи |
 | 09:30–10:30 | Встреча с гориллами — **1 час наблюдения** (правило UWA) |
 | 11:30–12:30 | Возвращение к trailhead, выдача сертификатов, чаевые |
-| 13:00 | Возврат в **Rushaga Gorilla Lodge**, поздний обед |
-| 14:00 | Душ, переодевание, **чек-аут** |
-| 14:30 | Выезд из Rushaga → **Lake Mutanda** через Rubuguri |
+| 13:00 | Возврат в **Bwindi Breeze Lodge (Rubuguri)**, поздний обед |
+| 14:00 | Душ, переодевание, **чек-аут** (conf #6007745987) |
+| 14:30 | Выезд из Rubuguri → **Lake Mutanda** (Rubuguri уже на полпути к Mutanda — ~30 км / 1 ч) |
 | 16:00 | Прибытие на берег Lake Mutanda — точка отправки катера |
 | 16:15 | 🛶 **Катер на Kisoro Art Island** (10–15 мин) |
 | 16:30 | Прибытие на остров, чекин, welcome drink |
@@ -125,7 +129,7 @@
 
 ### Скрипт для брифинга (попросить близкую семью)
 
-> "Hello, ranger. We're staying at Rushaga Gorilla Lodge tonight only — tonight we move to Lake Mutanda for our second night. Could you please assign us to a family with a shorter trek today, like **Bweza, Busingye, or Mucunguzi**? We're moderately fit but need to drive 1.5 hours after lunch. Thank you!"
+> "Hello, ranger. We're staying at Bwindi Breeze Lodge in Rubuguri — tonight we move to Lake Mutanda for our second night. Could you please assign us to a family with a shorter trek today, like **Bweza, Busingye, or Mucunguzi**? We're moderately fit but need to drive 1.5 hours after lunch. Thank you!"
 
 Рейнджеры обычно идут навстречу. Bikingi и Rwigi — самые "дальние" семьи (часто 5–7 ч), их избегайте.
 
@@ -462,7 +466,7 @@
 
 | Дата | Лодж | Ночей | Бронь |
 |---|---|---|---|
-| 8 мая (пт) | Rushaga Gorilla Lodge | 1 | reservations@mbzgroup.africa / WhatsApp +256 752 409 510 |
+| 8 мая (пт) | **Bwindi Breeze Lodge** (Rubuguri) | 1 | ✅ **Confirmed #6007745987** / +256 751 926308 |
 | 9 мая (сб) | Kisoro Art Island | 1 | Kamere Tours WhatsApp +256 776 360 824 |
 | 10 мая (вс) | Ishasha Wilderness Camp | 1 | reservations@classicafricasafaris.com |
 | 11 мая (пн) | Mweya Safari Lodge | 1 | reservations@mweyalodge.com / +256 414 346 464 |
@@ -509,13 +513,13 @@
 
 **Вариант 2 — не двигаемся (рекомендую):**
 - Звоните Art Island с trailhead в 16:00: "не успеваем, переносим на 10 мая"
-- Просите Rushaga GL вторую ночь (8→9→10 мая, не 8→9)
+- Звоните Bwindi Breeze Lodge (+256 751 926308) — просите вторую ночь (8→9→10 мая, не 8→9)
 - 10 мая утром едете на Mutanda, проводите день и ночь там
 - 11 мая утром → Ishasha (та же программа что в плане, но смещена на день)
 - Это **съедает один день из QENP** — пропускаете утренний game drive Mweya 12 мая, либо сокращаете Mburo до 1 ночи
 
 **Вариант 3 — Art Island пропускаем:**
-- Остаётесь 2 ночи в Rushaga GL
+- Остаётесь 2 ночи в Bwindi Breeze Lodge (если есть availability)
 - 10 мая едете прямо на Mutanda (просто на обед/каноэ-тур, без ночёвки) → Ishasha
 - Теряете "ночь на острове" опыт
 
@@ -525,8 +529,8 @@
 
 ## 📋 Чеклист "до отъезда из России"
 
-- [ ] Бронь Aerolink 111 (8 мая) — ✅ confirmed
-- [ ] Бронь Rushaga Gorilla Lodge — 1 ночь, 8 мая
+- [x] Бронь Aerolink (8 мая, EBB→KSO 07:00→08:15, ref **187E632**) — ✅ confirmed
+- [x] Бронь **Bwindi Breeze Lodge** (Rubuguri) — 1 ночь, 8 мая — ✅ confirmed #6007745987
 - [ ] Бронь Kisoro Art Island — 1 ночь, 9 мая (через Kamere Tours WhatsApp)
 - [ ] Бронь Ishasha Wilderness Camp — 1 ночь, 10 мая
 - [ ] Бронь Mweya Safari Lodge — 1 ночь, 11 мая
