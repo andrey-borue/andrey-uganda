@@ -86,6 +86,12 @@
 
 ---
 
+## 💬 [Готовые сообщения — отдельный файл](MESSAGES.md)
+
+Шаблоны WhatsApp / email сообщений по бронированиям: Aerolink Operations (адрес EBB), Bwindi Breeze Lodge (meals/checkout), прокатчик, Kisoro Art Island, общий шаблон лоджей. Скопировать → отправить.
+
+---
+
 ## ✈️ [Перелёты — отдельный файл](FLIGHTS.md)
 
 - Aerolink Uganda EBB → Kisoro: расписание, цены ($326+), багаж 15 кг soft
