@@ -272,7 +272,8 @@
 | **Aerolink Operations (WhatsApp)** ✅ | **+256 771 009307** |
 | **Aerolink Operations (email)** ✅ | **operations@aerolinkuganda.com** |
 | UWA (Uganda Wildlife Authority) | +256 414 355 000 |
-| **Bwindi Breeze Lodge (Rubuguri, 8 мая)** ✅ | **+256 751 926308** (conf #6007745987) |
+| **Bwindi Breeze Lodge (Rubuguri, 8 мая)** ✅ WhatsApp | **+256 776 482701** (conf #6007745987) |
+| Bwindi Breeze Lodge — booking platform | +256 751 926308 |
 
 ---
 
