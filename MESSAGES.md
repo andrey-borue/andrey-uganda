@@ -103,7 +103,7 @@ Andrey Boryu
 ```
 Hi Mihingo team,
 
-I'm planning to stay at Mihingo Lodge on 13–14 May 2026 with my partner. We saw on your site that the maximum rider weight for the horse safari is 100 kg, and that most horses can carry up to 85 kg.
+I'm planning to stay at Mihingo Lodge around 13–14 May 2026 with my partner. We saw on your site that the maximum rider weight for the horse safari is 100 kg, and that most horses can carry up to 85 kg.
 
 I weigh 105 kg. Could you please confirm:
 
@@ -119,9 +119,39 @@ Andrey
 
 ---
 
+## 💵 Прокатчик машины — clarify $600 deposit before paying
+
+**Кому:** WhatsApp **+256 776 001035**
+**Контекст:** They forwarded a payment link `https://tri.ps/YIDli` for $600 deposit. The link currently returns 404 (account being fixed per their msg). $400 credit is permit overpayment refund: paid $800/permit × 2 = $1600, actual operator price $600/permit × 2 = $1200, refund $400 applied to car deposit (so $1000 deposit − $400 = $600 due).
+
+```
+Hi, thanks for the explanation. Before paying, please confirm in writing:
+
+1. Total permit cost charged to us originally: $1600 (2 × $800)
+2. Actual permit cost via your channel: $1200 (2 × $600)
+3. Credit applied to car deposit: $400
+4. Car deposit total: $1000
+5. Balance due now: $600
+6. Refundable on car return (clean inspection): $1000 → back to my card
+
+Could you also send a copy of the UWA permit receipts so I have the official paper trail?
+
+When the payment account is fixed, please re-share the link — the current tri.ps link returns 404. I'll pay by card so the refund channels match (your stated policy).
+
+Thanks!
+```
+
+> **Safety check before clicking new link:**
+> - Должно перенаправить на Stripe / Pesapal / Flutterwave / DPO / Yo! Payments
+> - НЕ платить на сайте незнакомого домена с просьбой ввести card details
+> - Card transaction = chargeback insurance, never bank wire
+> - **`tri.ps` сам — легитимный travel-shortener**, не повод паниковать. Текущая ссылка просто истекла/удалена.
+
+---
+
 ## 📋 Прокатчик машины — confirm Kisoro airstrip pickup
 
-**Кому:** (вставить контакт прокатчика)
+**Кому:** WhatsApp **+256 776 001035** (тот же контакт)
 **Дата:** 8 мая 2026
 
 ```
