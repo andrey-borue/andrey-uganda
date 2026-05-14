@@ -196,6 +196,28 @@ Thank you!
 
 ---
 
+## 🦅 Venna Farm Lodge — confirm booking + Mabamba shoebill
+
+**Кому:** WhatsApp **+256 785 750 624**
+**Бронь:** через Booking.com на 14→15 мая 2026 (1 ночь, 2 guests), check-in 19:00–20:00
+**Контекст:** Booking прислал "request not guaranteed until property confirms" — нужно прямое подтверждение. Лодж рядом с Mabamba → утром 15 мая поедем смотреть shoebill.
+
+```
+Hello! This is Andrey Boryu — I have a booking at Venna Farm Lodge for tonight (14 May), arriving 19:00–20:00. Booking.com told me to confirm directly with you.
+
+A few quick questions:
+
+1. Can you please confirm my booking is received? Two guests (myself and my partner).
+2. We are driving ourselves from Lake Mburo and leaving around 13:00 today, so ETA ~19:00–20:00. Is late check-in OK? Will dinner be available when we arrive?
+3. Tomorrow morning we'd like to go to Mabamba to see the shoebill. Can the lodge arrange the canoe + guide for us? What time should we leave (sunrise start)? And can you prepare an early coffee / packed breakfast before we go?
+
+Thank you! Looking forward to staying with you.
+
+— Andrey
+```
+
+---
+
 ## 🏨 Прочие лоджи — общий шаблон подтверждения
 
 ```
