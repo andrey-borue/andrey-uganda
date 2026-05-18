@@ -18,14 +18,14 @@
 
 | Дата | День | Где ночуем | Главное событие |
 |---|---|---|---|
-| 8 мая (пт) | 1 | **Bwindi Breeze Lodge** (Rubuguri) | Прилёт KSO 08:15, переезд через Mutanda, акклиматизация |
-| 9 мая (сб) | 2 | **Lake Bunyonyi** (Birdnest или Amasiko) | ⭐ Горилловый трек Rushaga → переезд ~2 ч прямой горной дорогой |
-| 10 мая (вс) | 3 | **Ishasha Wilderness Camp** | Bunyonyi → Kabale → Kanungu → Ishasha → ⭐ tree-climbing lions |
-| 11 мая (пн) | 4 | **Mweya Safari Lodge** | Утренний game drive → ⭐ Kazinga sunset cruise |
-| 12 мая (вт) | 5 | **Kyaninga Lodge** (Kibale) | Утренний Kasenyi → переезд в Kibale |
-| 13 мая (ср) | 6 | **Mihingo Lodge** (Mburo) | ⭐ Шимпы Kibale → длинный переезд в Mburo |
-| 14 мая (чт) | 7 | **Mihingo Lodge** | ⭐ Конное сафари + walking + boat cruise |
-| 15 мая (пт) | 8 | **The Boma Entebbe** | Переезд в Entebbe через Equator |
+| 8 мая (пт) | 1 | **Bwindi Breeze Lodge** (Rubuguri) ✅ | Прилёт KSO 08:15, переезд через Mutanda, акклиматизация |
+| 9 мая (сб) | 2 | **Antique Cottages** (Lake Bunyonyi) ✅ | ⭐ Горилловый трек Rushaga → переезд ~2 ч прямой горной дорогой |
+| 10 мая (вс) | 3 | **Ishasha Pride Lodge** ✅ | Bunyonyi → Kabale → Kanungu → Ishasha |
+| 11 мая (пн) | 4 | **Egret Safari Lodge** (Kazinga) ✅ | Утренний game drive Ishasha → вечерний boat (гиппо/крокодилы) |
+| 12 мая (вт) | 5 | **Hyena Hill Lodge** (ночь 1) ✅ | Утренний game drive → переезд в Mburo |
+| 13 мая (ср) | 6 | **Hyena Hill Lodge** (ночь 2) ✅ | Self-drive game drive без гида — нашли зебр и жирафов |
+| 14 мая (чт) | 7 | _TBD_ | План: Mihingo / конное сафари. Корректируется по факту |
+| 15 мая (пт) | 8 | **The Boma Entebbe** _(план)_ | Переезд в Entebbe через Equator |
 | 16 мая (сб) | 9 | вылет | Утро Mabamba shoebill → аэропорт |
 
 **Итого:** 8 ночей в Уганде, 5 национальных парков, 4 great ape encounters (gorillas, chimps, golden monkeys опц., shoebill), tree-climbing lions, hippo cruise, конное сафари среди зебр.
@@ -146,9 +146,10 @@
 | 07:30 | **Брифинг.** На брифинге **попросите близкую семью** — Bweza, Busingye или Mucunguzi (см. скрипт ниже) |
 | 08:00 | Распределение групп, наём портера ($20 каждому) |
 | 08:30 | Старт трека от trailhead соответствующей семьи |
-| 09:30–10:30 | Встреча с гориллами — **1 час наблюдения** (правило UWA) |
+| 09:30–10:30 | Встреча с гориллами — **1 час наблюдения** (правило UWA). ✅ **Факт: ходили в семью Mishaya** |
 | 11:30–12:30 | Возвращение к trailhead, выдача сертификатов, чаевые |
 | 12:30 | Переодевание у машины, packed lunch на капоте |
+| — | ✅ **Факт:** после трека — экскурсия в деревню племени **Batwa** (пигмеи, выселенные из лесов Bwindi при создании НП в 1991 г.) |
 | 13:00 | Выезд от UWA Rushaga → **Lake Bunyonyi** прямой горной дорогой (~35 км) |
 | 13:00–15:30 | Дорога: Rushaga → Kisoro–Kabale Rd (через горы Kigezi, обходит крюк через Kabale town). **Google 1ч20м, в мае закладывайте 2–2.5 ч с буфером на мокрый murram.** |
 | ~15:30 | Прибытие в лодж на Bunyonyi (Birdnest / Amasiko / выбранный), чекин, душ |
@@ -176,30 +177,11 @@
 | **Bikingi** | сложно | 14:30–17:00 |
 | **Rwigi** | сложно | 14:30–17:00 |
 
-### Лодж — Lake Bunyonyi (выбрать и забронировать)
+### Лодж — ✅ ФАКТ
 
-См. полное сравнение в [places/03-lake-bunyonyi.md](places/03-lake-bunyonyi.md).
-
-**Топ-3 кандидата для пары:**
-
-| Лодж | Стиль | Цена | Плюсы | Минусы |
-|---|---|---|---|---|
-| ⭐ **Birdnest at Bunyonyi** | premium romance | $150–250 | Каменные шале **над водой**, лучшая еда на озере, закатная палуба | Wifi плавает |
-| **Bushara Island Camp** | rustic island | mid | Палатки/treehouses, тишина, звёзды | Без электричества, нужна лодка |
-| **Amasiko Homestay** | community/budget | $30–80 | Ближе к Bwindi (south end, удобно после трека), local feel | Простота |
-| **Arcadia Cottages** | viewpoint | mid | **Та самая панорама** Bunyonyi с гребня | Не у воды |
-
-**Рекомендация:** **Birdnest at Bunyonyi** — самое надёжное под формат «приехали уставшие после трека, душ, ужин, закат».
-
-### Что подтвердить с лоджем при бронировании
-
-1. **Цена** dbl за ночь 9 мая 2026, board basis (Half Board вероятно — так как ужин на месте)
-2. **ETA ~15:30**, гибкий чек-ин (после трека возможны задержки)
-3. **Парковка** для 4WD на ночь
-4. **Wifi** — есть ли (созвон не нужен, но мало ли)
-5. **Утром 10 мая** — завтрак ~07:30, **packed coffee/snack для дороги** (выезд ~09:00 в Ishasha)
-6. **Активности на месте:** dugout canoe (~$20), birdwatching на рассвете, Arcadia viewpoint hike
-7. **Cancellation policy** — на случай форс-мажора с Aerolink 8 мая
+**Antique Cottages** (Lake Bunyonyi) — 1 ночь, 9→10 мая 2026
+- 📍 [Google Maps](https://maps.app.goo.gl/9SYaVoEhNtCV67ov5)
+- См. полное сравнение альтернатив в [places/03-lake-bunyonyi.md](places/03-lake-bunyonyi.md).
 
 ---
 
@@ -231,14 +213,11 @@
 - **Заправка по дороге:** только в Kabale и Kihihi. Полный бак в Kabale обязательно.
 - Mid-day выезд + 4.5-часовая дорога = в Ishasha к 14:30, успеваем на вечерний game drive (золотой час 16:00–18:30).
 
-### Лодж
+### Лодж — ✅ ФАКТ
 
-**Ishasha Wilderness Camp** ⭐ (luxury, на реке, palm-thatched tents, ~$400–600 dbl FB)
-- reservations@classicafricasafaris.com
-- На реке Ntungwe, бегемоты под палаткой
-- Лучший лодж в Ishasha по обзорам
-
-**Альтернатива mid:** **Enjojo Lodge** ($180–280 FB) — bookings@enjojolodge.com
+**Ishasha Pride Lodge** — 1 ночь, 10→11 мая 2026
+- 📍 [Google Maps](https://maps.app.goo.gl/tYSF9MMcxpnFuxxu5)
+- Утром 11 мая — game drive по Ishasha
 
 ### Что искать на game drive
 
@@ -248,6 +227,8 @@
 - **Без ranger-guide шанс падает с 50–70% до 20%**. Берите обязательно.
 
 Дополнительно увидите: слонов (мигрирующие из DRC), буйволов, угандийских кобов, топи, лесных свиней, бабуинов, гиппо в реке.
+
+> ✅ **Факт по итогам трипа:** tree-climbing lions не нашли ни на вечернем game drive 10 мая, ни на утреннем 11 мая. Зато встретили **леопарда** (один из самых редких визуальных контактов в Уганде).
 
 ---
 
@@ -277,13 +258,12 @@
 - Все по парку — потенциальный game viewing по дороге (слоны, кобы, буйволы)
 - **Заправка в Katunguru** (внутри парка, единственная)
 
-### Лодж
+### Лодж — ✅ ФАКТ
 
-**Mweya Safari Lodge** ⭐ (icon, ~$300–500 dbl FB)
-- reservations@mweyalodge.com
-- +256 414 346 464
-- На Mweya peninsula с панорамой на Kazinga Channel и Lake Edward
-- Бассейн с видом, бар на закат, pool deck
+**Egret Safari Lodge** (Kazinga) — 1 ночь, 11→12 мая 2026
+- 📍 [Google Maps](https://maps.app.goo.gl/WAbCRjErcmnfRis48)
+- Вечером 11 мая — boat по озеру (смотрели гиппопотамов и крокодилов)
+- Утром 12 мая — game drive
 
 ### ⭐ Kazinga Channel boat cruise
 
@@ -323,14 +303,13 @@
 | 19:30 | Ужин |
 | 21:00 | Отбой (завтра в 6:00 на трек шимпов) |
 
-### Лодж
+### Лодж — ✅ ФАКТ
 
-**Kyaninga Lodge** ⭐⭐⭐ (luxury, $700+ dbl FB) — топ-3 лоджей Уганды по красоте
-- reservations@kyaningalodge.com
-- На кратере, виды на Rwenzori, swimmable lake (без шисто на этой высоте)
-- Ресторан считается одним из лучших в Уганде
+**Hyena Hill Lodge** (ночь 1 из 2) — 12→13 мая 2026
+- 📍 [Google Maps](https://maps.app.goo.gl/PEYR2YrM6Xaen16p7)
+- Kibale chimps в этом трипе пропустили — поехали напрямую в Mburo-зону
 
-**Mid-range альтернатива:** **Crater Safari Lodge** ($200–300 FB) — на берегу кратерного озера, viewable Mt Rwenzori
+> ⚠️ План ниже (Kyaninga, шимпы Kibale) — это исходный план; фактически в этот день переехали в Hyena Hill Lodge.
 
 ### Kasenyi savanna game drive — важно
 
@@ -378,13 +357,11 @@
 - **Заправки:** Kasese, Mbarara, Sanga
 - **Скорость 80 км/ч** макс — много полицейских с радарами на этой дороге
 
-### Лодж
+### Лодж — ✅ ФАКТ
 
-**Mihingo Lodge** ⭐ (premium, $300–500 dbl FB)
-- reservations@mihingolodge.com / +256 752 410 509
-- На гранитном kopje, infinity-pool с видом на саванну
-- **Единственный лодж в Уганде с конным сафари**
-- Зебры приходят на salt lick прямо к ресторану
+**Hyena Hill Lodge** (ночь 2 из 2) — 13→14 мая 2026
+- 📍 [Google Maps](https://maps.app.goo.gl/PEYR2YrM6Xaen16p7)
+- 13 мая — **self-drive game drive без гида**, нашли зебр и жирафов
 
 ---
 
@@ -509,15 +486,15 @@ Mihingo политика: max 100 кг, large horses up to 100 кг, average hor
 
 ## 🎯 Lodge — резюме броней (что подтверждать)
 
-| Дата | Лодж | Ночей | Бронь |
+| Дата | Лодж | Ночей | Статус |
 |---|---|---|---|
-| 8 мая (пт) | **Bwindi Breeze Lodge** (Rubuguri) | 1 | ✅ **Confirmed #6007745987** / WA **+256 776 482701** |
-| 9 мая (сб) | **Lake Bunyonyi** (Birdnest рекомендован) | 1 | TBD — see [places/03-lake-bunyonyi.md](places/03-lake-bunyonyi.md) |
-| 10 мая (вс) | Ishasha Wilderness Camp | 1 | reservations@classicafricasafaris.com |
-| 11 мая (пн) | Mweya Safari Lodge | 1 | reservations@mweyalodge.com / +256 414 346 464 |
-| 12 мая (вт) | Kyaninga Lodge (Kibale) | 1 | reservations@kyaningalodge.com |
-| 13–14 мая (ср–чт) | Mihingo Lodge (Mburo) | 2 | reservations@mihingolodge.com / +256 752 410 509 |
-| 15 мая (пт) | The Boma Entebbe | 1 | info@boma.co.ug / +256 414 320 800 |
+| 8 мая (пт) | **Bwindi Breeze Lodge** (Rubuguri) | 1 | ✅ Останавливались |
+| 9 мая (сб) | **Antique Cottages** (Lake Bunyonyi) [📍](https://maps.app.goo.gl/9SYaVoEhNtCV67ov5) | 1 | ✅ Останавливались |
+| 10 мая (вс) | **Ishasha Pride Lodge** [📍](https://maps.app.goo.gl/tYSF9MMcxpnFuxxu5) | 1 | ✅ Останавливались |
+| 11 мая (пн) | **Egret Safari Lodge** (Kazinga) [📍](https://maps.app.goo.gl/WAbCRjErcmnfRis48) | 1 | ✅ Останавливались |
+| 12–13 мая (вт–ср) | **Hyena Hill Lodge** [📍](https://maps.app.goo.gl/PEYR2YrM6Xaen16p7) | 2 | ✅ Останавливались |
+| 14 мая (чт) | _TBD_ | 1 | Уточняется |
+| 15 мая (пт) | The Boma Entebbe | 1 | План: info@boma.co.ug / +256 414 320 800 |
 
 **Бронируйте 4+ недели вперёд** — все эти лоджи популярны даже в low season.
 
