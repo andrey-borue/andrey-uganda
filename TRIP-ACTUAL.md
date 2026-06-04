@@ -19,8 +19,8 @@
 | 4 | 11→12 мая | **Egret Safari Lodge** | Kazinga / QENP | [📍](https://maps.app.goo.gl/WAbCRjErcmnfRis48) |
 | 5 | 12→13 мая | **Hyena Hill Lodge** (ночь 1) | (Mburo-зона) | [📍](https://maps.app.goo.gl/PEYR2YrM6Xaen16p7) |
 | 6 | 13→14 мая | **Hyena Hill Lodge** (ночь 2) | (Mburo-зона) | [📍](https://maps.app.goo.gl/PEYR2YrM6Xaen16p7) |
-| 7 | 14→15 мая | _TBD_ | — | — |
-| 8 | 15→16 мая | _TBD_ (план: The Boma Entebbe) | Entebbe | — |
+| 7 | 14→15 мая | **Venna Farm Lodge** | Buyege (рядом с Mabamba) | [📍](https://maps.app.goo.gl/wz2UPuimHKsHBJK4A) |
+| 8 | 15→16 мая | **Muti Garden Café & Restaurant** | Entebbe | [📍](https://maps.app.goo.gl/xWLHXxZZEecPjH2R8) |
 
 ---
 
@@ -60,7 +60,7 @@
 - 🏨 **Hyena Hill Lodge** (ночь 1) — [📍](https://maps.app.goo.gl/PEYR2YrM6Xaen16p7)
 - ⚠️ **Kibale chimps пропустили** — отклонение от исходного плана.
 
-## День 6 — 13 мая (ср) 📍 *сегодня*
+## День 6 — 13 мая (ср)
 
 - 🦓 **Self-drive game drive без гида**, нашли **зебр и жирафов**.
   - (Лake Mburo NP — единственное место в Уганде с зебрами + Rothschild giraffes, реинтродуцированных в 2015 г.)
@@ -68,17 +68,21 @@
 - ❌ **Walking safari — отказались**: $25/чел сверху, уже всё увидели с машины на self-drive.
 - 🏨 **Hyena Hill Lodge** (ночь 2) — [📍](https://maps.app.goo.gl/PEYR2YrM6Xaen16p7)
 
-## День 7 — 14 мая (чт) — *впереди*
+## День 7 — 14 мая (чт)
 
-- План на корректировке.
+- Переезд из Mburo-зоны в **Buyege** (рядом с Mabamba) — позиционируемся под утренний shoebill на следующий день.
+- 🏨 **Venna Farm Lodge** (Buyege) — [📍](https://maps.app.goo.gl/wz2UPuimHKsHBJK4A)
 
-## День 8 — 15 мая (пт) — *впереди*
+## День 8 — 15 мая (пт) ⭐ Shoebill
 
-- План: переезд в Entebbe через Equator → **The Boma Entebbe**.
+- 🦅 Утром поехали на **Mabamba Swamp Shoebill Site** — [📍](https://maps.app.goo.gl/wWJf5TLC4rzhyNY87) — **увидели shoebill** ✅
+- Переезд в Entebbe.
+- 🌿 Прогулка по **Entebbe Botanical Garden** — [📍](https://maps.app.goo.gl/YDZiSR2dyFQdcLo57)
+- 🍽️ Ужин в **Middle East Restaurant Entebbe** — [📍](https://maps.app.goo.gl/G8B3Wfb4fvGWGBzR6)
+- 🏨 **Muti Garden Café & Restaurant** (Entebbe) — [📍](https://maps.app.goo.gl/xWLHXxZZEecPjH2R8)
 
-## День 9 — 16 мая (сб) — *впереди*
+## День 9 — 16 мая (сб)
 
-- 🦅 Утро: Mabamba shoebill.
 - Сдача машины, международный вылет.
 
 ---
@@ -93,6 +97,7 @@
 | 🐊 Крокодилы | Kazinga, вечер 11 мая |
 | 🦓 Зебры | Mburo-зона, 13 мая |
 | 🦒 Жирафы (Rothschild) | Mburo-зона, 13 мая |
+| 🦅 **Shoebill stork** | Mabamba Swamp, утро 15 мая |
 
 ## ⚠️ Что НЕ увидели
 
@@ -105,6 +110,7 @@
 3. **Конное сафари не состоялось** — нет лошадей под вес Андрея (предсказано в [MESSAGES.md](MESSAGES.md), подтвердилось по факту).
 4. **Walking safari пропущен** — $25/чел сверху, та же фауна была с машины на self-drive.
 5. На гориллах попалась **Mishaya**, не Bweza/Busingye/Mucunguzi из скрипта брифинга.
+6. **Mabamba shoebill перенесли с 16 на 15 мая** — поехали утром из Venna Farm Lodge в Buyege (рядом с болотом), а не из The Boma как изначально планировалось.
 
 ---
 
