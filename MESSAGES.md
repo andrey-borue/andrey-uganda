@@ -149,6 +149,31 @@ Thanks!
 
 ---
 
+## 💸 Прокатчик машины — chase the unpaid $400 refund (post-trip)
+
+**Кому:** WhatsApp **+256 776 001035** (менеджер Laba)
+**Дата:** после возврата машины 16 мая, деньги так и не пришли
+**Статус:** ✅ РЕШЕНО — депозит/возврат $400 пришёл вечером 3 июня 2026. Вопрос закрыт.
+**Контекст:** Переплата за пермиты — заплачено $1600 (2 × $800), фактическая цена через оператора $1200 (2 × $600), переплата $400 обещана к возврату. Уточнить конкретную дату и способ возврата.
+
+```
+Hi Laba, this is Andrey Boryu (Uganda self-drive, 8–16 May).
+
+It's been over two weeks since we returned the car, and the USD 400 you
+agreed to refund us still hasn't come through. To recap: we originally paid
+USD 1,600 for the two gorilla permits (2 × 800), the actual cost via your
+channel was USD 1,200 (2 × 600), so USD 400 was overpaid and you confirmed
+it would be returned to us.
+
+Could you please confirm:
+1. The exact date you will send the USD 400, and
+2. The method (back to my card, or mobile money / bank transfer)?
+
+I'd appreciate a firm date this week. Thanks.
+```
+
+---
+
 ## 📋 Прокатчик машины — confirm Kisoro airstrip pickup
 
 **Кому:** WhatsApp **+256 776 001035** (тот же контакт)
